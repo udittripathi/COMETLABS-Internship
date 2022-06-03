@@ -1,0 +1,8 @@
+POST request at: http://localhost:3000/register
+
+ "name":"udit",
+   "email":"tripathiudit19@gmail.com",
+   "phone":9876543452,
+   "work":"web",
+   "password":"udit",
+   "cpassword":"udit"
